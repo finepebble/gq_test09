@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# LLM 최적화 안내 파일
+Allow: /LLM.txt
+
+# 사이트맵 위치
+Sitemap: https://finepebble.github.io/GQ_PageTest/sitemap.xml
